@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="30">
+	<author>Timmiej93</author>
+	<version>1.1.0.0</version>
+	<title>
+		<en>Chopped Straw - Direct seeding addon</en>
+		<de>Gehäckseltes Stroh - Direktsaat addon</de>
+		<fr>Paille hachée - Semis direct addon</fr>
+	</title>
+	<description>
+		<en><![CDATA[Direct sowing addon for the Chopped Straw mod. Makes direct seeders (i.e. Vädersta Rapid A 600S) 'cultivate' the chopped straw on the field as well, where the default mod doesn't. Original mod by Webalizer.]]></en>
+		<de><![CDATA[Direktsaat addon für die Chopped Straw mod. Erlaubt direktsaat maschinen (i.e. Vädersta Rapid A 600S) das gehäckseltes Stroh ein zu kultivieren.]]></de>
+		<fr><![CDATA[Complément de semis direct pour le mod de paille hachée. Donne des semoirs directs (c'est-à-dire Vädersta Rapid A 600S) «cultivez également la paille hachée sur le terrain, où le mod par défaut ne fonctionne pas. Mod d'origine par Webalizer.]]></fr>
+	</description>
+	<iconFilename>CS_Addon_DS.dds</iconFilename>
+	<multiplayer supported="false"/>
+
+	<extraSourceFiles>
+		<sourceFile filename="registerAddon.lua" />
+	</extraSourceFiles>
+</modDesc>
